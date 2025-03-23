@@ -1,4 +1,4 @@
-import User from "../models/UserModel.js";
+import User from "../models/Usermodel.js";
 
 // GET
 async function getUsers(req, res) {
